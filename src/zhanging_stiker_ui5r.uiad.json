@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "HANGER PRINT",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "HANGER PRINT"
+  },
+  "ui5AppDetails": {
+    "appId": "zhangingsticker"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_282BE84151BEE8C247FF5BE9E574ADD9FC241DCF_TM",
+    "semanticObject": "ZHANGING_STIKER",
+    "action": "DISPLAY",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_282BE84151BEE8C247FF5BE9E574ADD9FC241DCF_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "HANGER PRINT",
+        "subtitle": "SD"
+      }
+    }
+  ]
+}
